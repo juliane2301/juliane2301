@@ -57,6 +57,7 @@ Portfólio:   julianedev.vercel.app 🌐
       <br/><br/>
       <h4>🗄️ Banco de Dados</h4>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -72,7 +73,11 @@ Portfólio:   julianedev.vercel.app 🌐
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/VPN-4B0082?style=for-the-badge&logo=wireguard&logoColor=white"/>
       <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/Runrun.it-FF6B35?style=for-the-badge&logo=runnerstone&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     </td>
   </tr>
@@ -109,6 +114,22 @@ Portfólio:   julianedev.vercel.app 🌐
 | [☕ Exercícios POO](https://github.com/juliane2301/Exercicios-po) | Exercícios de Orientação a Objetos | TypeScript |
 | [⚙️ Exercícios C++](https://github.com/juliane2301/exercicios-cpp) | Exercícios práticos de C++ | C++ |
 | [🐳 Docker Server Tests](https://github.com/juliane2301/docker-server-tests) | Testes com servidor e Docker | JavaScript · Docker |
+
+---
+
+## 💼 Experiência Profissional
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28px">
+
+**Implantação de Sistemas & Suporte ao Cliente**
+- 🚀 Implantação e configuração de sistemas e plataformas para clientes
+- 📈 Configuração e apoio em processos no **HubSpot CRM**
+- 💬 Suporte técnico ao cliente, organização de fluxos e help desk
+- 📝 Criação de documentações técnicas, playbooks e ICP
+- 🔗 Apoio em atividades com **APIs, automações e integrações**
+- 🔎 Verificação de instalação e rastreamento de ferramentas em sites
+- 📊 Organização de dados e processos para relacionamento com clientes
+- 🗂️ Gestão de tarefas com **Kanban** via Runrun.it e Miro
 
 ---
 
