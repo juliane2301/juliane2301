@@ -19,7 +19,7 @@ Nome:       Juliane Machado
 Localização: Pato Branco - PR 🌎
 Status:     Estudando muito! 📚
 Paixão:     Transformar café em código ☕💻
-Pronomes:   Ela/Dela 💜
+
 ```
 
 - 🎓 Estudante de **Tecnologia da Informação**
