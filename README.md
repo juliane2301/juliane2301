@@ -24,9 +24,9 @@ Portfólio:   julianedev.vercel.app 🌐
 ```
 
 - 🎓 **Tecnóloga em ADS** pela UNIDEP (em andamento)
+- 🎯 Buscando vaga de **estagiária ou desenvolvedora júnior** em TI
 - 💜 Interesse em **desenvolvimento de software, dados, CRM e infraestrutura**
 - 🌱 Sempre aprendendo e evoluindo a cada dia!
-- Analista de implantação e suporte ao cliente. 
 
 ---
 
@@ -119,6 +119,7 @@ Portfólio:   julianedev.vercel.app 🌐
 - 📊 **Excel Básico** — SESI
 - 🗂️ **Pacote Office** (Word, PowerPoint e Outlook) — SESI
 - 🔐 **Cibersegurança** (Curso Básico) — SESI
+- 🟠 **Inbound Marketing** — HubSpot Academy *(válido jan/2026 – fev/2028)*
 
 ---
 
