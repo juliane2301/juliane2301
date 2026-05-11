@@ -16,15 +16,13 @@
 
 ```yaml
 Nome:        Juliane Machado de Oliveira
-Formação:    Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIDEP
+Formação:    Tecnóloga em Análise e Desenvolvimento de Sistemas - UNIDEP
 Localização: Pato Branco - PR 🌎
-Status:      Estudando muito! 📚
-Paixão:      Tecnologia/cafe
 Portfólio:   julianedev.vercel.app 🌐
 ```
 
 - 🎓 **Tecnóloga em ADS** pela UNIDEP (em andamento)
-- 🎯 Buscando vaga de **estagiária ou desenvolvedora júnior** em TI
+- 💼 Atuando com **implantação de sistemas e suporte ao cliente**
 - 💜 Interesse em **desenvolvimento de software, dados, CRM e infraestrutura**
 - 🌱 Sempre aprendendo e evoluindo a cada dia!
 
