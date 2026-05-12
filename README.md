@@ -52,6 +52,7 @@ Portfólio:   julianedev.vercel.app 🌐
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <br/><br/>
       <h4>🗄️ Banco de Dados</h4>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -72,11 +73,8 @@ Portfólio:   julianedev.vercel.app 🌐
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VPN-4B0082?style=for-the-badge&logo=wireguard&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
       <img src="https://img.shields.io/badge/Runrun.it-FF6B35?style=for-the-badge&logo=runnerstone&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -155,17 +153,11 @@ Portfólio:   julianedev.vercel.app 🌐
 
 <img src="https://media.giphy.com/media/Ov9PUCOFmcQxIVSHLo/giphy.gif" width="28px">
 
-<a href="https://github.com/juliane2301">
-  <img src="https://img.shields.io/badge/GitHub-juliane2301-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/juliane-machado-64a113236">
   <img src="https://img.shields.io/badge/LinkedIn-Juliane_Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:julianeee.oliveira23@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-julianeee.oliveira23-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://julianedev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-julianedev.vercel.app-9B59B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
