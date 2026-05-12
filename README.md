@@ -168,10 +168,3 @@ Portfólio:   julianedev.vercel.app 🌐
 
 <img src="https://komarev.com/ghpvc/?username=juliane2301&color=9B59B6&style=flat-square&label=Visitas+ao+perfil"/>
 
-<br/><br/>
-
-**💜 "A tecnologia transforma ideias em realidade." 💜**
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80px"/>
-
-</div>
