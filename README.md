@@ -145,11 +145,6 @@ Portfólio:   julianedev.vercel.app 🌐
 ✨ Organização e atenção aos detalhes &nbsp;|&nbsp; 🔍 Capacidade investigativa &nbsp;|&nbsp; 🧠 Solução de problemas
 📚 Facilidade de aprendizado &nbsp;|&nbsp; 🚀 Comprometimento com evolução &nbsp;|&nbsp; 🤝 Boa comunicação em equipe
 
----
 
-<div align="center">
 
-## 💌 Vamos nos conectar?
-
-<img src="https://media.giphy.com/media/Ov9PUCOFmcQxIVSHLo/giphy.gif" width="28px">
 
