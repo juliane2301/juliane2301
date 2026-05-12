@@ -153,18 +153,3 @@ Portfólio:   julianedev.vercel.app 🌐
 
 <img src="https://media.giphy.com/media/Ov9PUCOFmcQxIVSHLo/giphy.gif" width="28px">
 
-<a href="https://www.linkedin.com/in/juliane-machado-64a113236">
-  <img src="https://img.shields.io/badge/LinkedIn-Juliane_Machado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:julianeee.oliveira23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-julianeee.oliveira23-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60px">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60px">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60px">
-
-<img src="https://komarev.com/ghpvc/?username=juliane2301&color=9B59B6&style=flat-square&label=Visitas+ao+perfil"/>
-
