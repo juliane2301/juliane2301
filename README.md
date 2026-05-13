@@ -21,12 +21,10 @@ Localização: Pato Branco - PR 🌎
 Portfólio:   julianedev.vercel.app 🌐
 ```
 
-- 🎓 **Tecnóloga em ADS** pela UNIDEP (em andamento)
+- 🎓 **Tecnólogo em ADS** pela UNIDEP (em andamento)
 - 💼 Atuando com **implantação de sistemas e suporte ao cliente**
-- 💜 Interesse em **desenvolvimento de software, dados, CRM e infraestrutura**
-- 🌱 Sempre aprendendo e evoluindo a cada dia!
+- 💜 Interesse em **desenvolvimento de software, CRM, Analista de testes.
 
----
 
 <div align="center">
 
