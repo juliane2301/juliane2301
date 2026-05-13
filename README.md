@@ -30,7 +30,7 @@ Portfólio:   julianedev.vercel.app 🌐
 
 <div align="center">
 
-## 🛠️ Habilidades Técnicas
+## 🛠️Conhecimento básico 
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
 
