@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-# Olá! Eu sou a Juliane Machado 💖
+# Olá! Eu sou a Juliane Machado! 💖
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia+👩‍💻;Desenvolvedora+em+formação+💜;Apaixonada+por+programação+💡;Transformando+ideias+em+realidade+🚀" alt="Typing SVG" />
 
@@ -21,14 +21,15 @@ Localização: Pato Branco - PR 🌎
 Portfólio:   julianedev.vercel.app 🌐
 ```
 
-- 🎓 **Tecnólogo em ADS** pela UNIDEP (em andamento)
+- 🎓 **Tecnóloga em ADS** pela UNIDEP (em andamento)
 - 💼 Atuando com **implantação de sistemas e suporte ao cliente**
-- 💜 Interesse em **desenvolvimento de software, CRM, Analista de testes.
+- 💜 Interesse em **desenvolvimento de software, CRM, Analista de testes**
 
+---
 
 <div align="center">
 
-## 🛠️Conhecimento básico 
+## 🛠️ Conhecimento básico
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
 
@@ -42,8 +43,6 @@ Portfólio:   julianedev.vercel.app 🌐
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </td>
     <td align="center" width="50%">
       <h4>🧩 Frameworks & Bibliotecas</h4>
@@ -70,7 +69,6 @@ Portfólio:   julianedev.vercel.app 🌐
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
       <img src="https://img.shields.io/badge/Runrun.it-FF6B35?style=for-the-badge&logo=runnerstone&logoColor=white"/>
     </td>
@@ -106,7 +104,6 @@ Portfólio:   julianedev.vercel.app 🌐
 | [🔬 Ciência de Dados - Faculdade](https://github.com/juliane2301/ciencia-dados-python-faculdade) | Análise de dados de clientes de cartão de crédito | Python · Pandas · NumPy · Matplotlib |
 | [📚 Livros API Express](https://github.com/juliane2301/-livros-api-express) | API REST para gerenciamento de acervo de livros | Node.js · Express · JavaScript |
 | [☕ Exercícios POO](https://github.com/juliane2301/Exercicios-po) | Exercícios de Orientação a Objetos | TypeScript |
-| [⚙️ Exercícios C++](https://github.com/juliane2301/exercicios-cpp) | Exercícios práticos de C++ | C++ |
 | [🐳 Docker Server Tests](https://github.com/juliane2301/docker-server-tests) | Testes com servidor e Docker | JavaScript · Docker |
 
 ---
@@ -142,7 +139,3 @@ Portfólio:   julianedev.vercel.app 🌐
 
 ✨ Organização e atenção aos detalhes &nbsp;|&nbsp; 🔍 Capacidade investigativa &nbsp;|&nbsp; 🧠 Solução de problemas
 📚 Facilidade de aprendizado &nbsp;|&nbsp; 🚀 Comprometimento com evolução &nbsp;|&nbsp; 🤝 Boa comunicação em equipe
-
-
-
-
