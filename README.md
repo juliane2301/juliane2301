@@ -81,32 +81,7 @@ Localização: Pato Branco - PR 🌎
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliane2301&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane2301&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliane2301&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🌟 Projetos em Destaque
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px">
-
-| 🚀 Projeto | 📝 Descrição | 🛠️ Tecnologias |
-|---|---|---|
-| [🌐 Portfólio Pessoal](https://github.com/juliane2301/portfolio-pessoal) | Portfólio profissional com formação, habilidades e projetos | HTML · CSS · JavaScript |
-| [🔬 Ciência de Dados - Faculdade](https://github.com/juliane2301/ciencia-dados-python-faculdade) | Análise de dados de clientes de cartão de crédito | Python · Pandas · NumPy · Matplotlib |
-| [📚 Livros API Express](https://github.com/juliane2301/-livros-api-express) | API REST para gerenciamento de acervo de livros | Node.js · Express · JavaScript |
-| [☕ Exercícios POO](https://github.com/juliane2301/Exercicios-po) | Exercícios de Orientação a Objetos | TypeScript |
-| [🐳 Docker Server Tests](https://github.com/juliane2301/docker-server-tests) | Testes com servidor e Docker | JavaScript · Docker |
-
----
 
 ## 💼 Experiência Profissional
 
