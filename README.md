@@ -1,18 +1,4 @@
-<div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-
-# Olá! Eu sou a Juliane Machado! 💖
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia+👩‍💻;Desenvolvedora+em+formação+💜;Apaixonada+por+programação+💡;Transformando+ideias+em+realidade+🚀" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px"/>
-
-</div>
-
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> **Sobre mim**
 
 ```yaml
 Nome:        Juliane Machado de Oliveira
